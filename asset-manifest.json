@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6b0e8d79.css",
+    "main.js": "/static/js/main.cccea28f.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/sukhjot.jpg": "/static/media/sukhjot.1c4268974dde4b56ae35.jpg",
+    "static/media/js.png": "/static/media/js.e7eb54ae40636987cc95.png",
+    "static/media/fullStack.png": "/static/media/fullStack.27c79a097b1380557b0e.png",
+    "static/media/custom.png": "/static/media/custom.21f7fecec5d1002a95df.png",
+    "static/media/urlShortner.png": "/static/media/urlShortner.47c702e8cc3a03fbba5d.png",
+    "static/media/sardar.png": "/static/media/sardar.08dfd966b89fd47788ed.png",
+    "static/media/css.png": "/static/media/css.bb6c531e7151246fcfdc.png",
+    "static/media/fordMustangHorse.png": "/static/media/fordMustangHorse.d574bbb92adea7ce54fb.png",
+    "static/media/node.png": "/static/media/node.2b495ee33da52d92c0c3.png",
+    "static/media/react.png": "/static/media/react.44319306359c7112276d.png",
+    "static/media/mongodb.png": "/static/media/mongodb.113292453ccc690e5387.png",
+    "static/media/mysql.png": "/static/media/mysql.ef228a3c109365c5e7b7.png",
+    "static/media/responsive.png": "/static/media/responsive.de93a5a590c66859193c.png",
+    "index.html": "/index.html",
+    "main.6b0e8d79.css.map": "/static/css/main.6b0e8d79.css.map",
+    "main.cccea28f.js.map": "/static/js/main.cccea28f.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0e8d79.css",
+    "static/js/main.cccea28f.js"
+  ]
+}
